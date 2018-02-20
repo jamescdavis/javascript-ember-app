@@ -6054,6 +6054,13 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
+"typescript-ember-addon@https://github.com/jamescdavis/typescript-ember-addon.git#published#2018-02-26T15:06:42Z":
+  version "0.0.0"
+  resolved "https://github.com/jamescdavis/typescript-ember-addon.git#76d76e6798a5e5518d019ed1488f3288f91f3191"
+  dependencies:
+    ember-cli-babel "^6.6.0"
+    ember-cli-htmlbars "^2.0.1"
+
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/uc.micro/-/uc.micro-1.0.5.tgz#0c65f15f815aa08b560a61ce8b4db7ffc3f45376"
